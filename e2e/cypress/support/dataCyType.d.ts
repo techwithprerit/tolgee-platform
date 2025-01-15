@@ -10,7 +10,7 @@ declare namespace DataCy {
         "activity-compact-detail-button" |
         "activity-detail" |
         "activity-detail-dialog" |
-        "administration-access-message" |
+        "add-box" |
         "administration-assign-trial-assign-button" |
         "administration-assign-trial-button" |
         "administration-billing-edit-custom-plan-button" |
@@ -36,7 +36,6 @@ declare namespace DataCy {
         "administration-cloud-plans-item-public-badge" |
         "administration-create-custom-plan-button" |
         "administration-customize-plan-switch" |
-        "administration-debug-customer-account-message" |
         "administration-debug-customer-exit-button" |
         "administration-edit-current-plan-button" |
         "administration-ee-license-key-input" |
@@ -147,8 +146,6 @@ declare namespace DataCy {
         "billing-upgrade-preview-confirm-button" |
         "billing-usage-table" |
         "billing_period_annual" |
-        "cell-key-screenshot-dropzone" |
-        "cell-key-screenshot-file-input" |
         "checkbox-group-multiselect" |
         "comment" |
         "comment-menu" |
